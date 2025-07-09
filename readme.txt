@@ -35,7 +35,6 @@ Tested and compiled on:
 - empty.txt 
 - max.txt 
 - readme.txt (this file)
-- Operating Systems (COMP2006) Assigment Report.pdf
 - MakeFile
 
 ---------------------------
